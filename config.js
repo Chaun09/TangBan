@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Xem tiếp ở album đi nhá chưa hết đâu nè <33',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/manhmeo49' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://drive.google.com/drive/folders/14szcrNBDKlyBPuR1sITDksR8PmRrE8G1?usp=sharing' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
