@@ -8,8 +8,8 @@ const CONFIG = {
     btnNo: 'Không :<',
     question:'Em đồng ý ',
     btnReply: 'Gửi cho anh ',
-    reply: '',
-    mess: 'Em đồng ý ạ',
+    reply: 'Em đồng ý ạ',
+    mess: 'Anh thích em và hy vọng qua web này em có thể biết rằng sẽ luôn có 1 người đợi em, một người luôn sẵn sàng để có thể được chăm sóc , che chở và bảo vệ cho em',
     messDesc: 'Ấn vào đây để nói cho anh biết nhó',
     btnAccept: 'Okiiiii lun <3',
     messLink: '' //link mess của các bạn. VD: https://m.me/nam.nodemy
