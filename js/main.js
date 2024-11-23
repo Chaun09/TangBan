@@ -22,7 +22,7 @@ function firstQuestion(){
     Swal.fire({
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
-        imageUrl: 'img/411300065_379574668097313_9202452791830008702_n.jpg',
+        imageUrl: '../img/z6062584601408_50642ef50240024aa02b6210ec5344c6.jpg',
         
         imageWidth: 300,
         imageHeight: 300,
